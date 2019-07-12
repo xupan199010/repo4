@@ -27,4 +27,8 @@ public class SortTest {
             System.out.print(i + "\t");
         }
     }
+    public void testv(){
+        int i=0;
+        i +=10;
+    }
 }
